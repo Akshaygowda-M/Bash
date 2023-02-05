@@ -10,4 +10,4 @@ else
   echo "Server load is normal: $load"
 fi
 
-
+echo "this is new version of thr script"
