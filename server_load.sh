@@ -11,3 +11,7 @@ else
 fi
 
 echo "this is new version of thr script"
+
+echo "again there is new changhes please refer the below metioned path"
+pwd
+
