@@ -10,4 +10,4 @@ else
   echo "Server load is normal: $load"
 fi
 
-date
+
